@@ -17,7 +17,8 @@ func main() {
 	bucket := "example-jh-test"
 	// object := "addresses.csv"
 	// object := "sample-1.tsv"
-	object := "sample-5.tsv"
+	// object := "sample-5.tsv"
+	object := "testfolder/sample-1.tsv"
 
 	// Use a buffer to capture the output
 	var w bytes.Buffer
