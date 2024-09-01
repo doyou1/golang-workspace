@@ -1,3 +1,8 @@
+### command
+- go mod init {directory name}
+- go get -u {library address}
+
+
 - references: https://www.youtube.com/watch?v=yyUHQIec83I
 
 ### go mod init <module path>
